@@ -1,6 +1,7 @@
 var CACHE_NAME = 'tabela-cache-v1';
 var urlsToCache = [
-  '/'
+  '/',
+  'redback.png'
 ];
 /*
 self.addEventListener('install', function(e) {
