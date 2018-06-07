@@ -474,4 +474,4 @@ tableDates.split("\n").map(function (objLinha, indiceLinha) {
     });
 });
 
-window.scrollTo(0, document.getElementsByClassName("tdToday")[0].offsetTop - 45); // Não ta funcionado
+window.scrollTo(0, document.getElementsByClassName("tdToday")[0].offsetTop - 45); 

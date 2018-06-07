@@ -1,7 +1,9 @@
-var CACHE_NAME = 'tabela-cache-v1';
+var CACHE_NAME = 'tabela-cache-v3';
 var urlsToCache = [
   '/',
-  'redback.png'
+  'redback.png',
+  'script.js',
+  'tabela.webmanifest'
 ];
 /*
 self.addEventListener('install', function(e) {
